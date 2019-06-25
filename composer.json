@@ -1,0 +1,24 @@
+{
+    "name": "huoshaotuzi/uploader",
+    "description": "一个通用文件上传包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Huo Tu",
+            "email": "huoshaotuzi@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Huoshaotuzi\\Uploader\\": "src/"
+        }
+    }
+}
